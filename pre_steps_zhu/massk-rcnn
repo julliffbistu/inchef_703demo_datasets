@@ -1,0 +1,35 @@
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
+
+
+
+
+https://blog.csdn.net/u011974639/article/details/78483779
+
+
+https://blog.csdn.net/wjd1994/article/details/79326088
+
+
+
+
+sudo python balloon.py train --dataset=/home/zhulifu/Desktop/Mask_RCNN/samples/balloon/dataset/  --weights=/home/zhulifu/Desktop/Mask_RCNN/samples/balloon/mask_rcnn_balloon.h5 
+
+sudo python coco.py train --dataset=/home/zhulifu/Desktop/maskyuanban/Mask_RCNN/samples/coco/ --model=/home/zhulifu/Desktop/maskyuanban/Mask_RCNN/mask_rcnn_coco.h5 
+
+
+
+https://blog.csdn.net/wc781708249/article/details/79628824
+
+
+https://blog.csdn.net/u013249853/article/details/84924808
+
+
+https://blog.csdn.net/wc781708249/article/details/79624990#t6
+
+
+https://blog.csdn.net/u014525760/article/details/79931485
+
+
+jupyter nbconvert --to script demo.ipynb
+
+
+https://blog.csdn.net/doudou_here/article/details/87855273
